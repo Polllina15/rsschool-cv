@@ -1,1 +1,1 @@
-https://polllina15.github.io/rsschool-cv/cv
+https://Polllina15.github.io/rsschool-cv/cv
