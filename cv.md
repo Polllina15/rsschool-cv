@@ -1,4 +1,3 @@
-![фото для CV new](https://github.com/Polllina15/rsschool-cv/assets/137718750/6ec7bebd-66c0-4997-8b79-e59667fa6555)
 # **Polina Pukhova**
 ## Personal Information:
 
