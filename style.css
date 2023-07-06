@@ -37,3 +37,14 @@ html {
 .nav-link {
     transition: .3s;
 }
+.title {
+font-weight: 700;
+}
+.Education {
+    list-style: none;
+    padding: 0;
+}
+.cv-link {
+    color: chocolate;
+    font-family: 'Times New Roman', Times, serif;
+}
